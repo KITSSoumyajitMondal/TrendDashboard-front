@@ -1,0 +1,7 @@
+{
+  "directory" : "src/scripts/vendor",
+  "json" : "bower.json",
+  "proxy" : "http://gateway.zscaler.net",
+  "https-proxy" : "http://gateway.zscaler.net",
+  "registry": "http://bower.herokuapp.com"
+}
